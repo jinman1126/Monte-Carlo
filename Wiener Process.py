@@ -2,7 +2,7 @@
 """
 Created on Wed Sep 28 19:10:11 2016
 
-@author: jeremy inman
+@author: JeremyInman
 """
 
 # -*- coding: utf-8 -*-
