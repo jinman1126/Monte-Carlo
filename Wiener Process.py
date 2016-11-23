@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 28 19:10:11 2016
-
-@author: JeremyInman
-"""
-
-# -*- coding: utf-8 -*-
 """
 Created on Wed Sep 28 17:38:13 2016
 
