@@ -12,8 +12,6 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 from scipy.stats import norm
-from matplotlib import cm
-from mpl_toolkits.mplot3d import Axes3D
 import csv
 
 def wiener_process():
